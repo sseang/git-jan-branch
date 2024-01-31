@@ -1,0 +1,15 @@
+body {
+  background-color: aqua;
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+}
+
+button {
+  margin: 5px;
+}
+
+input {
+  margin: 5px;
+  width: 75px;
+}
